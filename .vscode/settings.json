@@ -1,0 +1,4 @@
+{
+    "php-cs-fixer.formatHtml": true,
+    "php-cs-fixer.onsave": true
+}
